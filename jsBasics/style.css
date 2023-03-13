@@ -1,0 +1,22 @@
+body {
+    margin: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.wrapper {
+    width: 450px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    color: #C69749;
+    background: #eee7cf;
+    border-bottom: 7px solid #C69749;
+    border-radius: 15px;
+}
+
+.avatar {
+    width: 170px;
+    border-radius: 7px;
+}
